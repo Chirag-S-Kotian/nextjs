@@ -17,7 +17,7 @@ const Home = () => {
             </div>
             <div className="w-full">
               <h1 className="font-bold text-3xl mb-4">
-                NextJS 13 Authentication with{" "}
+                NextJS 14 Authentication with{" "}
                 <span className="text-primary">Appwrite</span>
               </h1>
               <p className="text-black/60">
